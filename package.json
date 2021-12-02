@@ -36,7 +36,7 @@
     "@celo/contractkit": "^1.2.0",
     "@celo/wallet-ledger": "^1.2.0",
     "@celo/wallet-local": "^1.2.0",
-    "@fontsource/roboto": "^4.1.0",
+    "@fontsource/roboto": "^4.5.1",
     "@ledgerhq/electron-updater": "^4.2.2",
     "@ledgerhq/hw-app-eth": "^5.11.0",
     "@ledgerhq/hw-transport-node-hid-noevents": "^5.40.0",
